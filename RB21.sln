@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RB21", "trunk\RB21.csproj", "{34B3DF01-01D9-4A8F-97D0-0C929D0888EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RB21", "RB21.csproj", "{34B3DF01-01D9-4A8F-97D0-0C929D0888EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
